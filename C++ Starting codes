@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Display fictional person's info
+    cout << "First Name: Dan" << endl;
+    cout << "Last Name: Salt" << endl;
+    cout << "Street Address: 109 Maple Street" << endl;
+    cout << "City: Springfield" << endl;
+    cout << "Zip Code: 12345" << endl;
+
+    return 0;
+}
